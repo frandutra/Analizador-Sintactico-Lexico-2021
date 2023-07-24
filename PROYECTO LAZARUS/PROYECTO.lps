@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="18">
+      <Unit0>
+        <Filename Value="PROYECTO.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <CursorPos Y="7"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="pantallas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="14"/>
+        <UsageCount Value="137"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="declaraciones.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="266"/>
+        <CursorPos Y="299"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="analex.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="355"/>
+        <CursorPos Y="377"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="anasin.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="5"/>
+        <TopLine Value="562"/>
+        <CursorPos Y="569"/>
+        <UsageCount Value="137"/>
+        <Loaded Value="True"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="evaluador.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="6"/>
+        <TopLine Value="404"/>
+        <CursorPos X="76" Y="181"/>
+        <UsageCount Value="64"/>
+        <Loaded Value="True"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="evaluador2.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="274"/>
+        <CursorPos X="33" Y="305"/>
+        <UsageCount Value="51"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="menuprincipal.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos Y="34"/>
+        <UsageCount Value="27"/>
+        <Loaded Value="True"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="estetica.pas"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="85"/>
+        <CursorPos Y="118"/>
+        <UsageCount Value="60"/>
+        <Loaded Value="True"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\..\..\frand\Downloads\analex.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="133"/>
+        <CursorPos Y="150"/>
+        <UsageCount Value="3"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\AYUDAS\lista_dim2 (1).pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="209"/>
+        <UsageCount Value="4"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\LAZARUS\fpc\3.2.0\source\rtl\win64\windows.pp"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="83" Y="23"/>
+        <UsageCount Value="4"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="..\..\..\frand\Downloads\lista_dim2.pas"/>
+        <UnitName Value="LISTA_DIM2"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <CursorPos X="16" Y="103"/>
+        <UsageCount Value="11"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="..\..\..\frand\Downloads\evaluador.pas"/>
+        <UnitName Value="Evaluador"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="130"/>
+        <CursorPos X="72" Y="362"/>
+        <UsageCount Value="14"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="..\..\..\frand\OneDrive\Escritorio\TPI-Ultima version\evaluador.pas"/>
+        <UnitName Value="Evaluador"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="525"/>
+        <CursorPos X="20" Y="554"/>
+        <UsageCount Value="20"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="..\..\..\frand\Downloads\evaluador (1).pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="11"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\..\..\frand\Downloads\PROYECTOOOO\evaluador.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="466"/>
+        <UsageCount Value="10"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\CHATTERBOT\c_marcos.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="30"/>
+        <CursorPos Y="59"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="545" Column="6" TopLine="540"/>
+      </Position1>
+      <Position2>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="559" TopLine="490"/>
+      </Position2>
+      <Position3>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="554" Column="52" TopLine="545"/>
+      </Position3>
+      <Position4>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="588" Column="22" TopLine="566"/>
+      </Position4>
+      <Position5>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="587" Column="22" TopLine="566"/>
+      </Position5>
+      <Position6>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="584" Column="22" TopLine="566"/>
+      </Position6>
+      <Position7>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="583" Column="22" TopLine="566"/>
+      </Position7>
+      <Position8>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="565" Column="39" TopLine="552"/>
+      </Position8>
+      <Position9>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="561" Column="35" TopLine="552"/>
+      </Position9>
+      <Position10>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="453" Column="30" TopLine="440"/>
+      </Position10>
+      <Position11>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="588" Column="5" TopLine="566"/>
+      </Position11>
+      <Position12>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="587" Column="5" TopLine="566"/>
+      </Position12>
+      <Position13>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="584" Column="5" TopLine="566"/>
+      </Position13>
+      <Position14>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="583" Column="5" TopLine="566"/>
+      </Position14>
+      <Position15>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="341" Column="5" TopLine="328"/>
+      </Position15>
+      <Position16>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="340" Column="5" TopLine="328"/>
+      </Position16>
+      <Position17>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="338" Column="5" TopLine="328"/>
+      </Position17>
+      <Position18>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="337" Column="5" TopLine="328"/>
+      </Position18>
+      <Position19>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="335" Column="5" TopLine="328"/>
+      </Position19>
+      <Position20>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="334" Column="5" TopLine="328"/>
+      </Position20>
+      <Position21>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="332" Column="5" TopLine="327"/>
+      </Position21>
+      <Position22>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="331" Column="5" TopLine="326"/>
+      </Position22>
+      <Position23>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="329" Column="5" TopLine="324"/>
+      </Position23>
+      <Position24>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="328" Column="5" TopLine="323"/>
+      </Position24>
+      <Position25>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="326" Column="5" TopLine="321"/>
+      </Position25>
+      <Position26>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="325" Column="5" TopLine="320"/>
+      </Position26>
+      <Position27>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="323" Column="5" TopLine="318"/>
+      </Position27>
+      <Position28>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="322" Column="5" TopLine="317"/>
+      </Position28>
+      <Position29>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="256" Column="59" TopLine="243"/>
+      </Position29>
+      <Position30>
+        <Filename Value="anasin.pas"/>
+        <Caret Line="700" Column="57" TopLine="688"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <BreakPoints Count="1">
+      <Item1>
+        <Kind Value="bpkSource"/>
+        <WatchScope Value="wpsLocal"/>
+        <WatchKind Value="wpkWrite"/>
+        <Source Value="evaluador2.pas"/>
+        <Line Value="187"/>
+      </Item1>
+    </BreakPoints>
+  </Debugging>
+</CONFIG>
